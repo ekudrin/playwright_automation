@@ -7,4 +7,3 @@ class BasePage:
 
     def open(self):
         self.page.goto(self.HOMEPAGE_URL)
-
